@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\bin\Debug\EyeGuard.exe.config
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\bin\Debug\EyeGuard.exe
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\bin\Debug\EyeGuard.pdb
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.Form1.resources
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.exe
+C:\Users\Lenovo\source\repos\EyeGuard\EyeGuard\obj\Debug\EyeGuard.pdb
